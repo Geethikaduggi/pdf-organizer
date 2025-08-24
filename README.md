@@ -4,10 +4,9 @@ Automatically rename & organize PDFs by reading their titles and dates — in se
 🧠 What This Project Does
 ✅ Reads the first page of every PDF
 ✅ Extracts the title and detects a date
-✅ Renames files like this:
-cleanroom_protocols_2024_06_15.pdf
-✅ Moves them into folders by date:
-organized_pdfs/2024_06_15/
+✅ Renames files 
+✅ Moves them into folders by date
+
 
 Perfect for: certificates, reports, academic PDFs, notes & more 📚
 
@@ -43,5 +42,4 @@ python main.py
 
 👩‍💻 Made By
 Geethika Duggi — just learning, but building useful tools ✨
-github.com/Geethikaduggi
 
